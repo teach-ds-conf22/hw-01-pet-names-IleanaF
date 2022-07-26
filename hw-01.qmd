@@ -1,10 +1,9 @@
 ---
 title: "HW 01 - Pet names"
-author: "Insert your name here"
-date: "Insert date here"
+author: "Ileana Fenwick"
+date: "07-26-2022"
 format: pdf
 ---
-
 ## Load packages and data
 
 ```{r load-packages, message = FALSE}
